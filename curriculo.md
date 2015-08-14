@@ -31,7 +31,6 @@ Tenho 24 anos, sou de Santos - SP, atualmente moro em São Paulo e  trabalho com
 * [Blog Max2](http://www.max2digital.com.br/blog)
 * [Construtora Barroco](http://www.construtorabarroco.com.br)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Formação
 
