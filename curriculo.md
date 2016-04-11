@@ -9,7 +9,7 @@
 ## Sobre
 
 Olá, eu sou o Durval, seja bem vindo.
-Tenho 24 anos, sou de Santos - SP, atualmente moro em São Paulo e  trabalho como Programador na empresa [Max2 Digital](http://www.max2digital.com.br). Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
+Tenho 25 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front End na [Agência Riot](http://www.riot.com.br). Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
 
 ### Habilidades Web
 
@@ -17,7 +17,7 @@ Tenho 24 anos, sou de Santos - SP, atualmente moro em São Paulo e  trabalho com
 *   Sass / Coffee /NodeJS
 *   Git / Grunt / Gulp
 *   Wordpress / Magento / Open Cart
-*   SEO / OOCSS / RWD  
+*   SEO / Scheme / OOCSS / RWD  
 
 ### Habilidades de TI, Back End
 
@@ -26,10 +26,12 @@ Tenho 24 anos, sou de Santos - SP, atualmente moro em São Paulo e  trabalho com
 *   Hyper-V Server / NAS / DNS / TCP/IP / FTP / SAMBA / NFS
 
 ### Trabalhos recentes
-* [CAOA Consórcios](www.caoaconsorcios.com.br)
+* [Ofertas Americam Express](http://www.ofertasamericanexpress.com.br/)
+* [American Express Brasil](http://www.americanexpress.com.br)
+* [CAOA Consórcios](http://www.caoaconsorcios.com.br)
 * [Honda Japauto](http://www.ofertasjapauto.com.br/)
 * [Blog Max2](http://www.max2digital.com.br/blog)
-* [Construtora Barroco](http://www.construtorabarroco.com.br)
+* [Capitães Gastronomia](http://www.capitaesgastronomia.com.br/)
 
 
 ## Formação
@@ -43,10 +45,12 @@ Tenho 24 anos, sou de Santos - SP, atualmente moro em São Paulo e  trabalho com
 
 ## Experiência
 
-*   Programador em **[Max2 Digital](http://max2digital.com.br/)**, São Paulo, SP - `2014 - 2015 (Atual)`
+*   Desenvolvedor Front End **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP - `2016 (Atual)`
 
-*   Desenvolvedor Front-End em **[Mkt Virtual](http://mktvirtual.com.br/)**, Santos, SP - `2014`
+*   Programador em **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP - `2014 - 2016 (Atual)`
 
-*   Desenvolvedor Front-End **[Neo Markets](http://neomarkets.com.br/)**, São Paulo, SP - `2013`
+*   Desenvolvedor Front End em **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP - `2014`
 
-*   Programador em **[Darmo Publicidade](http://darmopublicidade.com.br/)**, Santos, SP - `2011 - 2013`
+*   Desenvolvedor Front End **[Neo Markets](http://www.neomarkets.com.br/)**, São Paulo, SP - `2013`
+
+*   Programador em **[Darmo Publicidade](http://www.darmopublicidade.com.br/)**, Santos, SP - `2011 - 2013`
