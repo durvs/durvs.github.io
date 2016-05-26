@@ -8,7 +8,7 @@
 
 ## About
 
-Hello, I am Durval, welcome.
+Hello, I am Durval. Welcome.
 I'm 25, I live in São Paulo - SP and currently work as a developer at [Riot Agency] (http://www.riot.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
 
 ### Front end technical skills
