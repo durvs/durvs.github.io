@@ -2,14 +2,14 @@
 
 ### Front End Developer
 
-[duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvalrafael) | [Portfólio](http://behance.net/durval) | [Telefone](tel: +5513988108860) | 
+[duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvalrafael) | [Portfólio](http://behance.net/durval) | [Telefone](tel: +5511953363014) | 
 [Medium](https://medium.com/@durval)
 
 
 ## About
 
 Hello, I am Durval. Welcome.
-I'm 25, I live in São Paulo - SP and currently work as a developer at [Riot Agency] (http://www.riot.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
+I'm 26, I live in São Paulo - SP and currently work as a developer at [Riot Agency] (http://www.riot.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
 
 ### Front end technical skills
 
