@@ -9,7 +9,7 @@
 ## About
 
 Hello, I am Durval. Welcome.
-I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracommerce] (http://www.infracommerce.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
+I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracommerce](http://www.infracommerce.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
 
 ### Front end technical skills
 
