@@ -2,7 +2,7 @@
 
 ### Front End Developer
 
-[duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvalrafael) | [Portfólio](http://behance.net/durval) | [Telefone](tel: +5511981349630) | 
+[duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvalrafael) | [Portfólio](http://behance.net/durval) | 
 [Medium](https://medium.com/@durval)
 
 
