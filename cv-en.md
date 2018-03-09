@@ -26,6 +26,12 @@ I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracom
 *   PHP / Java
 *   Hyper-V Server / NAS / DNS / TCP/IP / FTP / SAMBA / NFS
 
+### Events and Conferences
+* MercadoLivre Experience 2016
+* Android Dev Conf 2016, 2017
+* Front In Sampa 2017
+* PHP Experience 2018
+
 ### Recent Works
 * [Compra Unilever](https://www.compraunilever.com.br)
 * [MontBlanc Brasil](https://brasil.montblanc.com)
