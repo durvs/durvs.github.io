@@ -46,7 +46,7 @@ I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracom
 
 *   Front End Developer **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP - `2016`
 
-*   Developer I.T at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP - `2014 - 2016 (Atual)`
+*   Developer I.T at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP - `2014 - 2016 `
 
 *   Front End Developer at **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP - `2014`
 
