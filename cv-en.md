@@ -42,14 +42,20 @@ I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracom
 
 ## Work Experience
 
-*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 (Atual)`
+*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 (Current)`
+    Development of e-commerces, such as catalog, checkout, client area, admin etc. Maintenance of stores in production. Active acting on improvements to the platform and in the teams
 
 *   Front End Developer **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP - `2016`
+    Acting during the Creation of the American Express Brazil portal
 
 *   Developer I.T at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP - `2014 - 2016 `
-
+    Creation of institutional websites, websites for promotional campaigns, APis of integration with CRM, development of advertising pieces of email marketing.
+    
 *   Front End Developer at **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP - `2014`
+    Creation of institutional websites, sites for promotional campaigns.
 
 *   Front End Developer at **[Neo Markets](http://www.neomarkets.com.br/)**, São Paulo, SP - `2013`
+    Creation of institutional websites, sites for promotional campaigns.
 
 *   Developer I.T at **[Darmo Publicidade](http://www.darmopublicidade.com.br/)**, Santos, SP - `2011 - 2013`
+    Creation of institutional websites, sites for promotional campaigns.
