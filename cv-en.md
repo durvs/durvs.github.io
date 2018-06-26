@@ -9,7 +9,7 @@
 ## About
 
 Hello, I am Durval. Welcome.
-I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracommerce](http://www.infracommerce.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
+I'm 27, I live in São Paulo - SP and currently work as a Front End Developer at [Renault](http://www.renault.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
 
 ### Front end technical skills
 
@@ -42,7 +42,8 @@ I'm 27, I live in São Paulo - SP and currently work as a developer at [Infracom
 
 ## Work Experience
 
-*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 (Current)`
+*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `2018 (Current)`
+*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 - 2018`
     Development of e-commerces, such as catalog, checkout, client area, admin etc. Maintenance of stores in production. Active acting on improvements to the platform and in the teams
 
 *   Front End Developer **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP - `2016`
