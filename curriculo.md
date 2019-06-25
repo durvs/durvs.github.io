@@ -1,6 +1,6 @@
 # Durval Rafael
 
-###Desenvolvedor Front End
+### Desenvolvedor Front End
 
 [duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvalrafael) | [Portfólio](http://behance.net/durval) | 
 [Medium](https://medium.com/@durval)
