@@ -42,7 +42,8 @@ I'm 28, I live in São Paulo - SP and currently work as a Front End Developer at
 
 ## Work Experience
 
-*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `2018 (Current)`
+*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2019 (Current)`
+*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `2018`
 *   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 - 2018`
     Development of e-commerces, such as catalog, checkout, client area, admin etc. Maintenance of stores in production. Active acting on improvements to the platform and in the teams
 
