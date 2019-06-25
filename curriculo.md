@@ -26,7 +26,7 @@ Tenho 28 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front 
 *   Hyper-V Server / NAS / DNS / TCP/IP / FTP / SAMBA / NFS
 
 ### Trabalhos recentes
-* [Ofertas Americam Express](http://www.ofertasamericanexpress.com.br/)
+* [Ofertas American Express](http://www.ofertasamericanexpress.com.br/)
 * [American Express Brasil](http://www.americanexpress.com.br)
 * [CAOA Consórcios](http://www.caoaconsorcios.com.br)
 * [Honda Japauto](http://www.ofertasjapauto.com.br/)
