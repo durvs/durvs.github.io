@@ -9,7 +9,7 @@
 ## About
 
 Hello, I am Durval. Welcome.
-I'm 27, I live in São Paulo - SP and currently work as a Front End Developer at [Renault](http://www.renault.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
+I'm 28, I live in São Paulo - SP and currently work as a Front End Developer at [Infracommerce](https://www.infracommerce.com.br). I am always in search of knowledge, collaboration on the web community and new challenges.
 
 ### Front end technical skills
 
