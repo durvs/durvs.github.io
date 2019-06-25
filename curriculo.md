@@ -9,7 +9,7 @@
 ## Sobre
 
 Olá, eu sou o Durval, seja bem vindo.
-Tenho 25 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front End na [Agência Riot](http://www.riot.com.br). Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
+Tenho 28 anos, sou de Santos - SP, atualmente trabalho como Desenvolvedor Front End na [Agência Riot](http://www.riot.com.br). Estou sempre em busca de conhecimento, colaboração na comunidade web e novos desafios.
 
 ### Habilidades Web
 
