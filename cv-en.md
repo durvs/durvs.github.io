@@ -48,7 +48,7 @@ I'm 28, I live in São Paulo - SP and currently work as a Front End Leader at [I
 ## Work Experience
 
 *   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2019 (Current)`
-    * Responsible for development demands and technical solutions. Refinement and Estimation of effort to perform tasks
+    * Responsible for developing demands and technical solutions. Refinement and Estimation of effort to perform tasks
     * Creation of automated task and automation deploys flows made possible by informantion of an IC / CD environment
     * Front End team training. Creation of the "Infra talks" event, with the objective of disseminating knowledge among the teams through technical lectures on diverse subjects
     
