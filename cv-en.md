@@ -24,9 +24,9 @@ Focused on building, testing and making the most diverse interactions in the web
 
 ### I.T, Back end skills
 
-*   PHP / Java
-*   Oracle SQL / Mysql / SQL Server / Linux / MS Win Server
-*   Hyper-V Server / NAS / DNS / TCP/IP / FTP / SAMBA / NFS
+*   PHP / NodeJS
+*   Oracle SQL / Mysql  / Linux 
+*   Hyper-V Server /  DNS / TCP/IP / FTP / SAMBA / NFS
 
 
 ### Enthusiast of data analysis
