@@ -51,8 +51,9 @@ Focused on building, testing and making the most diverse interactions in the web
 
 ## Work Experience
 
-*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2019 (Current)`
+*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2018 (Current)`
     * Creation and maintenance of JavaScript libraries that handle with platform apis and User interface.
+    * Analysis and maintenance of SQL data models, procedures and functions
     * Responsible for developing and technical solutions. Refinement and Estimation of effort to perform tasks
     * Creation of automated task and deploys using an CI / CD environment (Gitlab CI, Kubernettes)
     * Front End team training. Creator of the event called "Infra talks", with the objective of disseminating knowledge among the teams through technical lectures on diverse subjects
