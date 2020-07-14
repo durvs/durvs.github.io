@@ -41,6 +41,7 @@ Focused on building, testing and making the most diverse interactions in the web
 * Google Cloud Summit - 2019
 
 ### Recent Works
+* [Nike Brazil](https://www.nike.com.br)
 * [Compra Unilever](https://www.compraunilever.com.br)
 * [Globo Assinaturas](https://assineoglobo.globo.com)
 * [Sunglass Hut](http://www.sunglasshut.com/br)
@@ -48,10 +49,22 @@ Focused on building, testing and making the most diverse interactions in the web
 * [MontBlanc México](http://www.montblanc.com.mx)
 * [Oakley](https://www.oakley.com.br/)
 
+### Apps published
+* [Unilever Compra Agora](https://play.google.com/store/apps/details?id=br.com.ifc.compraagora.app)
+* [Ecocard](https://play.google.com/store/apps/details?id=br.com.i9xp.ecocard)
+* [Loja Vila Nova](https://play.google.com/store/apps/details?id=br.com.ifc.vilanova.app)
+* [Loja Mondelez](https://play.google.com/store/apps/details?id=br.com.ifc.mondelez.app)
+
 
 ## Work Experience
 
-*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2018 (Current)`
+*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2019 (Current)`
+    * Responsible for new infrastructure solutions
+    * Responsible for the solution and direction of development projects
+    * Alignment with business and project managers
+    * Responsible for the technologies roadmap
+    * Support to Technical Leaders
+*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2018 -2019`
     * Creation and maintenance of JavaScript libraries that handle with platform apis and User interface.
     * Analysis and maintenance of SQL data models, procedures and functions
     * Responsible for developing and technical solutions. Refinement and Estimation of effort to perform tasks
