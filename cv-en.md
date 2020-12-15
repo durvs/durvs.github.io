@@ -58,13 +58,13 @@ Focused on building, testing and making the most diverse interactions in the web
 
 ## Work Experience
 
-*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2019 (Current)`
+*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 (Current)`
     * Responsible for new infrastructure solutions
     * Responsible for the solution and direction of development projects
     * Alignment with business and project managers
     * Responsible for the technologies roadmap
     * Support to Technical Leaders
-*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2018 -2019`
+*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2018 - Aug 2019`
     * Creation and maintenance of JavaScript libraries that handle with platform apis and User interface.
     * Analysis and maintenance of SQL data models, procedures and functions
     * Responsible for developing and technical solutions. Refinement and Estimation of effort to perform tasks
@@ -72,9 +72,9 @@ Focused on building, testing and making the most diverse interactions in the web
     * Front End team training. Creator of the event called "Infra talks", with the objective of disseminating knowledge among the teams through technical lectures on diverse subjects
     * Flutter Enthusiast (Currently working on the [Vila Nova app](https://play.google.com/store/apps/details?id=br.com.ifc.vilanova.app]) ) 
     
-*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `2018`
+*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `Jun 2018 - Ago 2018`
     * Worked at America Digital Hub with "Renault Frotas Brasil" Ecommerce Project
-*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `2016 - 2018`
+*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Jan 2017 - Ago 2018`
     * Development of e-commerce stores, such as catalog, checkout, client area, admin etc. Maintenance of stores in production. Active acting on improvements to the platform and in the teams
     * Develop and maintenance internal tools written with ReactJS and VueJS
     * Maintenance in the Store Admin written with ReactJS
