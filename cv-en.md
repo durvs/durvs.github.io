@@ -32,6 +32,12 @@ Focused on building, testing and making the most diverse interactions in the web
 ### Enthusiast of data analysis
 * Python / R / Tensor Flow
 
+### Certifications
+
+* Cyber Security Foundation - CSFPC™ (2021-2023)
+* Scrum Fundamentals Certified (2021-2022)
+* cPanel Professional Certification (CPP) (2021-2022)
+
 ### Events and Conferences
 
 * MercadoLivre Experience 2016
@@ -42,7 +48,7 @@ Focused on building, testing and making the most diverse interactions in the web
 
 ### Recent Works
 * [Nike Brazil](https://www.nike.com.br)
-* [Compra Unilever](https://www.compraunilever.com.br)
+* [Unilever Compra Agora](https://compra-agora.com/)
 * [Globo Assinaturas](https://assineoglobo.globo.com)
 * [Sunglass Hut](http://www.sunglasshut.com/br)
 * [MontBlanc Brasil](https://brasil.montblanc.com)
@@ -57,7 +63,12 @@ Focused on building, testing and making the most diverse interactions in the web
 
 
 ## Work Experience
-
+*   Software Engineer **[Itau](http://www.itau.com.br/)**, São Paulo, SP - `Fev 2021 (Current)`
+   * Main role: Java developer
+   * Cloud application development (Private Cloud / AWS)
+   * Production of technical drawing according to the standards and references of the architecture;
+   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
+    
 *   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 (Current)`
     * Responsible for new infrastructure solutions
     * Responsible for the solution and direction of development projects
