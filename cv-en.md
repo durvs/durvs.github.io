@@ -34,8 +34,8 @@ Focused on building, testing and making the most diverse interactions in the web
 
 ### Certifications
 
-* Cyber Security Foundation - CSFPC™ (2021-2023)
 * Scrum Fundamentals Certified (2021-2022)
+* Cyber Security Foundation - CSFPC™ (2021-2023)
 * cPanel Professional Certification (CPP) (2021-2022)
 
 ### Events and Conferences
