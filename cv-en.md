@@ -39,14 +39,18 @@ Focused on building, testing and making the most diverse interactions in the web
 * cPanel Professional Certification (CPP) (2021-2022)
 
 ### Events and Conferences
-
-* MercadoLivre Experience 2016
-* Android Dev Conf 2016, 2017, 2018
+* NextJS Conf / 2020
 * Front In Sampa 2017 / 2018
 * PHP Experience 2018 / 2019
 * Google Cloud Summit - 2019
+* MercadoLivre Experience 2016
+* Android Dev Conf 2016, 2017, 2018
+
+
+
 
 ### Recent Works
+* [E-hub](https://www.e-hub.com.br)
 * [Nike Brazil](https://www.nike.com.br)
 * [Unilever Compra Agora](https://compra-agora.com/)
 * [Globo Assinaturas](https://assineoglobo.globo.com)
@@ -63,7 +67,16 @@ Focused on building, testing and making the most diverse interactions in the web
 
 
 ## Work Experience
-*   Software Engineer **[Itau](http://www.itau.com.br/)**, São Paulo, SP - `Fev 2021 (Current)`
+*   Software Engineer Specialist **[Via](http://www.via.com.br/)**, São Paulo, SP - `Mai 2021 (Current)`
+    * Responsible for the solution and direction of development projects
+    * Focal point with business area and project managers
+    * Support to Technical Leaders
+    * Conducting interviews and technical evaluations
+   * Main role: Java developer
+   * Cloud application development (Private Cloud / AWS)
+   * Production of technical drawing according to the standards and references of the architecture;
+   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
+*   Software Engineer **[Itau](http://www.itau.com.br/)**, São Paulo, SP - `Fev 2021 - Mai 2021`
    * Main role: Java developer
    * Cloud application development (Private Cloud / AWS)
    * Production of technical drawing according to the standards and references of the architecture;
@@ -72,9 +85,10 @@ Focused on building, testing and making the most diverse interactions in the web
 *   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 (Current)`
     * Responsible for new infrastructure solutions
     * Responsible for the solution and direction of development projects
-    * Alignment with business and project managers
+    * Focal point with business area and project managers
     * Responsible for the technologies roadmap
     * Support to Technical Leaders
+    * Conducting interviews and technical evaluations
 *   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2018 - Aug 2019`
     * Creation and maintenance of JavaScript libraries that handle with platform apis and User interface.
     * Analysis and maintenance of SQL data models, procedures and functions
