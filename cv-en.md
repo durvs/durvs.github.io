@@ -67,6 +67,7 @@ Focused on building, testing and making the most diverse interactions in the web
 
 
 ## Work Experience
+
 *   Software Engineer Specialist **[Via](http://www.via.com.br/)**, São Paulo, SP - `Mai 2021 (Current)`
     * Responsible for the solution and direction of development projects
     * Focal point with business area and project managers
