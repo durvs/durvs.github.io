@@ -83,7 +83,7 @@ Focused on building, testing and making the most diverse interactions in the web
    * Production of technical drawing according to the standards and references of the architecture;
    * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
     
-*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 (Current)`
+*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 `
     * Responsible for new infrastructure solutions
     * Responsible for the solution and direction of development projects
     * Focal point with business area and project managers
