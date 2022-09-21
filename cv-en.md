@@ -9,7 +9,7 @@
 ## About
 
 
-Durval Moreira is a Brazilian software engineer, living in São Paulo - SP and currently work as a Front End Leader at [Infracommerce](https://www.infracommerce.com.br) has more than 10 years of experience web developing applications. 
+Durval Moreira is a Brazilian software engineer, living in São Paulo - SP and currently work as a Software Engineer Specialist at [Via](https://www.via.com.br) has more than 10 years of experience web developing applications. 
 
 Graduated by SENAI in Web Development, Has in his history works with brands as: Unilever, Nike, Harman, Montblanc, Grupo CAOA, Honda Motors
 
