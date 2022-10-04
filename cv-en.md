@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-[duurval [at] gmail.com](mailto:duurval@gmail.com) | [Site](http://durvalrafael.com.br/) | [Github](http://github.com/durvs) | [Portfólio](http://behance.net/durval) | 
+[duurval@gmail.com](mailto:duurval@gmail.com)  | [Github](http://github.com/durvs) | [Portfólio](http://behance.net/durval) | 
 [Medium](https://medium.com/@durval)
 
 
@@ -70,6 +70,8 @@ Focused on building, testing and making the most diverse interactions in the web
 
 *   Software Engineer Specialist **[Via](http://www.via.com.br/)**, São Paulo, SP - `Mai 2021 (Current)`
     * Responsible for the solution and direction of development projects
+    * Working with technologies as Java, Spring, Apache Kafka, Postgress, Mongo DB
+    * Also working in projects with technologies as NodeJS, Typescript, NestJS, NuxtJS
     * Focal point with business area and project managers
     * Support to Technical Leaders
     * Conducting interviews and technical evaluations
@@ -79,9 +81,10 @@ Focused on building, testing and making the most diverse interactions in the web
    * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
 *   Software Engineer **[Itau](http://www.itau.com.br/)**, São Paulo, SP - `Fev 2021 - Mai 2021`
    * Main role: Java developer
-   * Cloud application development (Private Cloud / AWS)
+   * Working with technologies as Java, Spring, Apache Kafka, Postgress
+   * Cloud application development (Private Cloud / AWS) / Database Modeling
    * Production of technical drawing according to the standards and references of the architecture;
-   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
+   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;
     
 *   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 `
     * Responsible for new infrastructure solutions
