@@ -29,8 +29,8 @@ Focused on building, testing and making the most diverse interactions in the web
 *   Hyper-V Server /  DNS / TCP/IP / FTP / SAMBA / NFS
 
 
-### Enthusiast of data analysis
-* Python / R / Tensor Flow
+### Data Skills
+* Python / SQL / Databricks 
 
 ### Certifications
 
