@@ -1,124 +1,146 @@
 # Durval Moreira
 
-### Software Developer
+### Software Engineer - São Paulo, SP
 
-[duurval@gmail.com](mailto:duurval@gmail.com)  | [Github](http://github.com/durvs) | [Portfólio](http://behance.net/durval) | 
-[Medium](https://medium.com/@durval)
+[duurval@gmail.com](mailto:duurval@gmail.com) | [Github](http://github.com/durvs) | [Linkedin](https://www.linkedin.com/in/durvalrafael/)
 
+## About Me
 
-## About
+I'm passionate about science, technology, and innovation. My most recent journey was as a Software Engineer at [ACT Digital](https://actdigital.com). Currently, I'm completing my bachelor's degree in Systems Analysis and Development at Universidade Cruzeiro do Sul.
 
+I have over 10 years of experience in application development and team leadership. Over the years, I've worked in various industries (Retail, Automotive, Banking) and collaborated with brands such as Nike, Unilever, Casas Bahia, Harman, Montblanc, Grupo CAOA, Honda, and others.
 
-Durval Moreira is a Brazilian software engineer, living in São Paulo - SP and currently work as a Software Engineer Specialist at [Via](https://www.via.com.br) has more than 10 years of experience web developing applications. 
+My focus is on collaborative development, where I can work as part of an agile team, leveraging methodologies like Scrum to deliver efficient and innovative solutions. I'm always eager to learn and stay updated on the latest trends and technologies to stay at the forefront of software development and ensure exceptional results for the projects I'm involved in.
 
-Graduated by SENAI in Web Development, Has in his history works with brands as: Unilever, Nike, Harman, Montblanc, Grupo CAOA, Honda Motors
+### Programming Language Skills
 
-Focused on building, testing and making the most diverse interactions in the web or out of them can offer.
-### Front end technical skills
+| Name       | Front/Back | Experience | Skill Level  |
+| ---------- | ---------- | ---------- | ------------ |
+| TypeScript | Both       | 4 years    | Advanced     |
+| JavaScript | Both       | 10 years   | Advanced     |
+| PHP        | Backend    | 5 years    | Intermediary |
+| Java       | Backend    | 3 years    | Intermediary |
+| Python     | Backend    | 2 years    | Basic        |
 
-*   React / Angular / Vue 
-*   JavaScript ESNext / TypeScript / Node JS
-*   Git / Sass/ Webpack 
-*   SEO / RWD  
+### General Skills and Tools
 
+- Agile | Scrum | Kanban
+- React | Vue | Angular | Flutter
+- Next.JS | Nuxt.JS
+- Git | Sass | Webpack
+- SEO | RWD | PWAs
 
-### I.T, Back end skills
+### Back-End Skills
 
-*   PHP / NodeJS
-*   Oracle SQL / Mysql  / Linux 
-*   Hyper-V Server /  DNS / TCP/IP / FTP / SAMBA / NFS
+- Javascript | Typescript | Java | PHP
+- Postgres | MySQL | Oracle
+- Microservices | Serverless | ioT | ProtoBuf
 
+### Infrastructure Skills
+
+- Linux | Docker | Kubernetes
+- Azure | AWS | GCP | Vercel
+- ELK Stack | Spinnaker | CI/CD
+- Jenkins | Github Actions | Shell
 
 ### Data Skills
-* Python / SQL / Databricks 
+
+- Python | SQL | Databricks | Spark
+- Postgres | Oracle SQL | MySQL | MongoDB
 
 ### Certifications
 
-* Scrum Fundamentals Certified (2021-2022)
-* Cyber Security Foundation - CSFPC™ (2021-2023)
-* cPanel Professional Certification (CPP) (2021-2022)
+- Scrum Fundamentals Certified (2021-2022)
+- Cyber Security Foundation - CSFPC™ (2021-2023)
+- cPanel Professional Certification (CPP) (2021-2022)
 
-### Events and Conferences
-* NextJS Conf / 2020
-* Front In Sampa 2017 / 2018
-* PHP Experience 2018 / 2019
-* Google Cloud Summit - 2019
-* MercadoLivre Experience 2016
-* Android Dev Conf 2016, 2017, 2018
+### Projects and Cases
 
+- [E-hub](https://www.e-hub.com.br)
+- [Nike Brazil](https://www.nike.com.br)
+- [Unilever Compra Agora](https://compra-agora.com/)
+- [Globo Assinaturas](https://assineoglobo.globo.com)
+- [Sunglass Hut](http://www.sunglasshut.com/br)
+- [MontBlanc Brazil](https://brasil.montblanc.com)
+- [MontBlanc Mexico](http://www.montblanc.com.mx)
+- [Oakley](https://www.oakley.com.br/)
 
+### Apps
 
+- [Via Marketplace](https://play.google.com/store/apps/details?id=com.seller.via&hl=pt&gl=US&pli=1)
+- [Unilever Compra Agora](https://play.google.com/store/apps/details?id=br.com.ifc.compraagora.app)
+- [Loja Mondelez](https://play.google.com/store/apps/details?id=br.com.ifc.mondelez.app)
 
-### Recent Works
-* [E-hub](https://www.e-hub.com.br)
-* [Nike Brazil](https://www.nike.com.br)
-* [Unilever Compra Agora](https://compra-agora.com/)
-* [Globo Assinaturas](https://assineoglobo.globo.com)
-* [Sunglass Hut](http://www.sunglasshut.com/br)
-* [MontBlanc Brasil](https://brasil.montblanc.com)
-* [MontBlanc México](http://www.montblanc.com.mx)
-* [Oakley](https://www.oakley.com.br/)
+## Professional Experience
 
-### Apps published
-* [Unilever Compra Agora](https://play.google.com/store/apps/details?id=br.com.ifc.compraagora.app)
-* [Ecocard](https://play.google.com/store/apps/details?id=br.com.i9xp.ecocard)
-* [Loja Vila Nova](https://play.google.com/store/apps/details?id=br.com.ifc.vilanova.app)
-* [Loja Mondelez](https://play.google.com/store/apps/details?id=br.com.ifc.mondelez.app)
+- Software Engineer **[GFT](http://www.actdigital.com)**, São Paulo, SP **Remote** - `Dez 2023 - Current`
 
+  - Working for [Surgo Health](https://www.surgohealth.com/), builting an Analytics Platform Application. Tech Specs: Node.JS, Typescript, Next.JS, Postgres.
 
-## Work Experience
+- Software Engineer **[GFT](http://www.gft.com.br)**, São Paulo, SP **Hybrid** - `May 2021 - Jul 2023`
+  - Worked for Santander Brazil in Investments Squads. Tech Specs: Java 11, Springboot, Oracle DB, Azure Data Bricks, Angular
+- Principal Software Engineer **[Via](http://www.via.com.br)**, São Paulo, SP **Remote** - `May 2021 - Jul 2023`
 
-*   Software Engineer Specialist **[Via](http://www.via.com.br/)**, São Paulo, SP - `Mai 2021 (Current)`
-    * Responsible for the solution and direction of development projects
-    * Working with technologies as Java, Spring, Apache Kafka, Postgress, Mongo DB
-    * Also working in projects with technologies as NodeJS, Typescript, NestJS, NuxtJS
-    * Focal point with business area and project managers
-    * Support to Technical Leaders
-    * Conducting interviews and technical evaluations
-   * Main role: Java developer
-   * Cloud application development (Private Cloud / AWS)
-   * Production of technical drawing according to the standards and references of the architecture;
-   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;  
-*   Software Engineer **[Itau](http://www.itau.com.br/)**, São Paulo, SP - `Fev 2021 - Mai 2021`
-   * Main role: Java developer
-   * Working with technologies as Java, Spring, Apache Kafka, Postgress
-   * Cloud application development (Private Cloud / AWS) / Database Modeling
-   * Production of technical drawing according to the standards and references of the architecture;
-   * Bring sustainable solutions based on knowledge of the structure of systems and solutions;
-    
-*   Solutions Architect **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2019 `
-    * Responsible for new infrastructure solutions
-    * Responsible for the solution and direction of development projects
-    * Focal point with business area and project managers
-    * Responsible for the technologies roadmap
-    * Support to Technical Leaders
-    * Conducting interviews and technical evaluations
-*   Front End Leader **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Aug 2018 - Aug 2019`
-    * Creation and maintenance of JavaScript libraries that handle with platform apis and User interface.
-    * Analysis and maintenance of SQL data models, procedures and functions
-    * Responsible for developing and technical solutions. Refinement and Estimation of effort to perform tasks
-    * Creation of automated task and deploys using an CI / CD environment (Gitlab CI, Kubernettes)
-    * Front End team training. Creator of the event called "Infra talks", with the objective of disseminating knowledge among the teams through technical lectures on diverse subjects
-    * Flutter Enthusiast (Currently working on the [Vila Nova app](https://play.google.com/store/apps/details?id=br.com.ifc.vilanova.app]) ) 
-    
-*   Front End Developer **[Renault](http://www.renault.com.br/)**, São Paulo, SP - `Jun 2018 - Ago 2018`
-    * Worked at America Digital Hub with "Renault Frotas Brasil" Ecommerce Project
-*   Front End Developer **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP - `Jan 2017 - Ago 2018`
-    * Development of e-commerce stores, such as catalog, checkout, client area, admin etc. Maintenance of stores in production. Active acting on improvements to the platform and in the teams
-    * Develop and maintenance internal tools written with ReactJS and VueJS
-    * Maintenance in the Store Admin written with ReactJS
+  - In the Marketplace team, I primarily worked on building software solutions in development and modernization projects. I worked with technologies such as Java, Spring, Apache Kafka, Postgres, and MongoDB.
 
-*   Front End Developer **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP - `2016`
-    Acting during the Creation of the American Express Brazil portal
+  - In the Data teams, we built a chatbot for Teams, delivering key company metrics to people and key groups within the company. The stack primarily involved NodeJS, TypeScript, NestJS, NuxtJS, and in the data layer, Python, Spark, SQL, Databricks.
+  - Also in data, we built a proof of concept for a Data Platform using the same stacks mentioned above.
+  - During my time at Via, I also performed activities such as:
+    - Technical leadership and mentoring of engineers
+    - Being the focal point with stakeholders and project managers
+    - Supporting Technical Leads
+    - Conducting interviews and technical assessments
 
-*   Developer I.T at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP - `2014 - 2016 `
-    Creation of institutional websites, websites for promotional campaigns, APis of integration with CRM, development of advertising pieces of email marketing.
-    
-*   Front End Developer at **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP - `2014`
-    Creation of institutional websites, sites for promotional campaigns.
+- Software Engineer at **[Itaú](http://www.itau.com.br/)**, São Paulo, SP **Remote** - `Feb 2021 - May 2021`
 
-*   Front End Developer at **[Neo Markets](http://www.neomarkets.com.br/)**, São Paulo, SP - `2013`
-    Creation of institutional websites, sites for promotional campaigns.
+  - Primary role: Java developer
+  - Worked with technologies like Java, Spring, Apache Kafka, Postgres
+  - Cloud application development (Private Cloud / AWS) / Database modeling
+  - Produced diagrams for data modeling according to standards and architecture references
 
-*   Developer I.T at **[Darmo Publicidade](http://www.darmopublicidade.com.br/)**, Santos, SP - `2011 - 2013`
-    Creation of institutional websites, sites for promotional campaigns.
+- Solutions Architect at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **Hybrid** - `Aug 2019`
+
+  - Responsible for new infrastructure solutions
+  - Responsible for solution and project direction
+  - Focal point with stakeholders and project managers
+  - Responsible for the technology roadmap
+  - Support for Technical Leads
+  - Conducted interviews and technical assessments
+
+- Full Stack Technical Lead at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **On-site** - `Aug 2018 - Aug 2019`
+
+  - Created and maintained JavaScript libraries that handle platform APIs and user interfaces.
+  - Analyzed and maintained SQL data models, procedures, and functions.
+  - Responsible for technical development and solutions. Refined and estimated effort to perform tasks.
+  - Created automated tasks and deployments using a CI/CD environment (Gitlab CI, Kubernetes).
+  - Trained the Front-End team. Creator of the "Infra talks" event, aimed at disseminating knowledge among teams through technical lectures on various topics.
+  - Flutter enthusiast. Developed mobile apps for the stores.
+
+- Front-End Developer at **[Renault](http://www.renault.com.br/)**, São Paulo, SP **On-site** - `Jun 2018 - Aug 2018`
+
+  - Worked at the America Digital Hub on the "Renault Fleet Brazil" e-commerce project.
+
+- Front-End Developer at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **On-site** - `Jan 2017 - Aug 2018`
+
+  - Developed e-commerce stores, including catalog, checkout, customer area, administration, etc. Maintained production stores. Actively participated in platform improvements and teams.
+  - Developed and maintained internal tools written in ReactJS and VueJS.
+  - Maintained the store's admin written in ReactJS.
+
+- Front-End Developer at **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP **On-site** - 2016
+
+  - Worked on creating the American Express Brazil portal.
+
+- IT Developer at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP **On-site** - 2014 - 2016
+
+  - Worked on creating institutional websites, websites for promotional campaigns, CRM integration APIs, and email marketing materials.
+
+- Front-End Developer at **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP **On-site** - 2014
+
+  - Worked on creating institutional websites and websites for promotional campaigns.
+
+- Front-End Developer at **[Neo Markets](http://www.neomarkets.com.br/)**, São Paulo, SP **On-site** - 2013
+
+  - Worked on creating institutional websites and websites for promotional campaigns.
+
+- IT Developer at **[Darmo Publicidade](http://www.darmopublicidade.com.br/)**, Santos, SP **On-site** - 2011 - 2013
+  - Worked on creating institutional websites and websites for promotional campaigns.
