@@ -6,21 +6,13 @@
 
 ## About Me
 
-I'm passionate about science, technology, and innovation. My most recent journey was as a Software Engineer at [ACT Digital](https://actdigital.com). Currently, I'm completing my bachelor's degree in Systems Analysis and Development at Universidade Cruzeiro do Sul.
-
 I have over 10 years of experience in application development and team leadership. Over the years, I've worked in various industries (Retail, Automotive, Banking) and collaborated with brands such as Nike, Unilever, Casas Bahia, Harman, Montblanc, Grupo CAOA, Honda, and others.
 
 My focus is on collaborative development, where I can work as part of an agile team, leveraging methodologies like Scrum to deliver efficient and innovative solutions. I'm always eager to learn and stay updated on the latest trends and technologies to stay at the forefront of software development and ensure exceptional results for the projects I'm involved in.
 
 ### Programming Language Skills
 
-| Name       | Front/Back | Experience | Skill Level  |
-| ---------- | ---------- | ---------- | ------------ |
-| TypeScript | Both       | 4 years    | Advanced     |
-| JavaScript | Both       | 10 years   | Advanced     |
-| PHP        | Backend    | 5 years    | Intermediary |
-| Java       | Backend    | 3 years    | Intermediary |
-| Python     | Backend    | 2 years    | Basic        |
+Java, Python, TypeScript, JavaScript, PHP
 
 ### General Skills and Tools
 
@@ -73,7 +65,7 @@ My focus is on collaborative development, where I can work as part of an agile t
 
 ## Professional Experience
 
-- Software Engineer **[GFT](http://www.actdigital.com)**, São Paulo, SP **Remote** - `Dez 2023 - Current`
+- Software Engineer **[ACT Digital](http://www.actdigital.com)**, São Paulo, SP **Remote** - `Dez 2023 - Current`
 
   - Working for [Surgo Health](https://www.surgohealth.com/), builting an Analytics Platform Application. Tech Specs: Node.JS, Typescript, Next.JS, Postgres.
 
@@ -122,25 +114,12 @@ My focus is on collaborative development, where I can work as part of an agile t
 
 - Front-End Developer at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **On-site** - `Jan 2017 - Aug 2018`
 
-  - Developed e-commerce stores, including catalog, checkout, customer area, administration, etc. Maintained production stores. Actively participated in platform improvements and teams.
-  - Developed and maintained internal tools written in ReactJS and VueJS.
-  - Maintained the store's admin written in ReactJS.
-
 - Front-End Developer at **[Agência Riot](http://www.riot.com.br/)**, São Paulo, SP **On-site** - 2016
-
-  - Worked on creating the American Express Brazil portal.
 
 - IT Developer at **[Max2 Digital](http://www.max2digital.com.br/)**, São Paulo, SP **On-site** - 2014 - 2016
 
-  - Worked on creating institutional websites, websites for promotional campaigns, CRM integration APIs, and email marketing materials.
-
 - Front-End Developer at **[Mkt Virtual](http://www.mktvirtual.com.br/)**, Santos, SP **On-site** - 2014
-
-  - Worked on creating institutional websites and websites for promotional campaigns.
 
 - Front-End Developer at **[Neo Markets](http://www.neomarkets.com.br/)**, São Paulo, SP **On-site** - 2013
 
-  - Worked on creating institutional websites and websites for promotional campaigns.
-
 - IT Developer at **[Darmo Publicidade](http://www.darmopublicidade.com.br/)**, Santos, SP **On-site** - 2011 - 2013
-  - Worked on creating institutional websites and websites for promotional campaigns.
