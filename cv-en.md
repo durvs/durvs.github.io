@@ -24,7 +24,7 @@ Java, Python, TypeScript, JavaScript, PHP
 
 ### Back-End Skills
 
-- Javascript | Typescript | Java | PHP
+- HTTP, Messaging Brokers, Testing
 - Postgres | MySQL | Oracle
 - Microservices | Serverless | ioT | ProtoBuf
 
@@ -67,46 +67,51 @@ Java, Python, TypeScript, JavaScript, PHP
 
 - Software Engineer **[ACT Digital](http://www.actdigital.com)**, São Paulo, SP **Remote** - `Dez 2023 - Current`
 
-  - Working for [Surgo Health](https://www.surgohealth.com/), builting an Analytics Platform Application. Tech Specs: Node.JS, Typescript, Next.JS, Postgres.
+  Working for [Surgo Health](https://www.surgohealth.com/), builting an Analytics Platform Application. **Tech Specs:** Node.JS, Typescript, Next.JS, Postgres.
 
 - Software Engineer **[GFT](http://www.gft.com.br)**, São Paulo, SP **Hybrid** - `May 2021 - Jul 2023`
-  - Worked for Santander Brazil in Investments Squads. Tech Specs: Java 11, Springboot, Oracle DB, Azure Data Bricks, Angular
+
+  Worked for Santander Brazil in Investments Squads. **Tech Specs:** Java 11, Springboot, Oracle DB, Azure Data Bricks, Angular
+
 - Principal Software Engineer **[Via](http://www.via.com.br)**, São Paulo, SP **Remote** - `May 2021 - Jul 2023`
 
-  - In the Marketplace team, I primarily worked on building software solutions in development and modernization projects. I worked with technologies such as Java, Spring, Apache Kafka, Postgres, and MongoDB.
+  In the Marketplace team, I primarily worked on building software solutions in development and modernization projects. I worked with technologies such as Java, Spring, Apache Kafka, Postgres, and MongoDB.
 
-  - In the Data teams, we built a chatbot for Teams, delivering key company metrics to people and key groups within the company. The stack primarily involved NodeJS, TypeScript, NestJS, NuxtJS, and in the data layer, Python, Spark, SQL, Databricks.
-  - Also in data, we built a proof of concept for a Data Platform using the same stacks mentioned above.
-  - During my time at Via, I also performed activities such as:
-    - Technical leadership and mentoring of engineers
-    - Being the focal point with stakeholders and project managers
-    - Supporting Technical Leads
-    - Conducting interviews and technical assessments
+  In the Data teams, we built a chatbot for Teams, delivering key company metrics to people and key groups within the company. The stack primarily involved NodeJS, TypeScript, NestJS, NuxtJS, and in the data layer, Python, Spark, SQL, Databricks.
+  During my time at Via, I also performed activities such as:
+  Technical leadership and mentoring of engineers
+  Being the focal point with stakeholders and project managers
+  Supporting Technical Leads
+  Conducting interviews and technical assessments
 
 - Software Engineer at **[Itaú](http://www.itau.com.br/)**, São Paulo, SP **Remote** - `Feb 2021 - May 2021`
 
-  - Primary role: Java developer
-  - Worked with technologies like Java, Spring, Apache Kafka, Postgres
-  - Cloud application development (Private Cloud / AWS) / Database modeling
-  - Produced diagrams for data modeling according to standards and architecture references
+  Java developer
+  Worked with technologies like Java, Spring, Apache Kafka, Postgres
+  Cloud application development (Private Cloud / AWS) / Database modeling
+  Produced diagrams for data modeling according to standards and architecture references
+
+- Software Engineer at **[Accurate](http://www.accurate.com.br/)**, São Paulo, SP **Remote** - `Oct 2020 - Jan 2021`
+
+  Working as a Software Engineer allocated for Claro Brazil
 
 - Solutions Architect at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **Hybrid** - `Aug 2019`
 
-  - Responsible for new infrastructure solutions
-  - Responsible for solution and project direction
-  - Focal point with stakeholders and project managers
-  - Responsible for the technology roadmap
-  - Support for Technical Leads
-  - Conducted interviews and technical assessments
+  Responsible for new infrastructure solutions;
+  Responsible for solution and project direction;
+  Focal point with stakeholders and project managers;
+  Responsible for the technology roadmap;
+  Support for Technical Leads;
+  Conducted interviews and technical assessments;
 
 - Full Stack Technical Lead at **[Infracommerce](http://www.infracommerce.com.br/)**, São Paulo, SP **On-site** - `Aug 2018 - Aug 2019`
 
-  - Created and maintained JavaScript libraries that handle platform APIs and user interfaces.
-  - Analyzed and maintained SQL data models, procedures, and functions.
-  - Responsible for technical development and solutions. Refined and estimated effort to perform tasks.
-  - Created automated tasks and deployments using a CI/CD environment (Gitlab CI, Kubernetes).
-  - Trained the Front-End team. Creator of the "Infra talks" event, aimed at disseminating knowledge among teams through technical lectures on various topics.
-  - Flutter enthusiast. Developed mobile apps for the stores.
+  Created and maintained JavaScript libraries that handle platform APIs and user interfaces.
+  Analyzed and maintained SQL data models, procedures, and functions.
+  Responsible for technical development and solutions. Refined and estimated effort to perform tasks.
+  Created automated tasks and deployments using a CI/CD environment (Gitlab CI, Kubernetes).
+  Trained the Front-End team. Creator of the "Infra talks" event, aimed at disseminating knowledge among teams through technical lectures on various topics.
+  Flutter enthusiast. Developed mobile apps for the stores.
 
 - Front-End Developer at **[Renault](http://www.renault.com.br/)**, São Paulo, SP **On-site** - `Jun 2018 - Aug 2018`
 
