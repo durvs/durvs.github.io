@@ -69,7 +69,7 @@ Java, Python, TypeScript, JavaScript, PHP
 
   Working for [Surgo Health](https://www.surgohealth.com/), builting an Analytics Platform Application. **Tech Specs:** Node.JS, Typescript, Next.JS, Postgres.
 
-- Software Engineer **[GFT](http://www.gft.com.br)**, São Paulo, SP **Hybrid** - `May 2021 - Jul 2023`
+- Software Engineer **[GFT](http://www.gft.com.br)**, São Paulo, SP **Hybrid** - `Ago 2023 - Dez 2023`
 
   Worked for Santander Brazil in Investments Squads. **Tech Specs:** Java 11, Springboot, Oracle DB, Azure Data Bricks, Angular
 
