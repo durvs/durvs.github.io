@@ -84,7 +84,7 @@ Java, Python, TypeScript, JavaScript, PHP
   Supporting Technical Leads
   Conducting interviews and technical assessments
 
-- Software Engineer at **[Itaú](http://www.itau.com.br/)**, São Paulo, SP **Remote** - `Feb 2021 - May 2021`
+- Software Engineer at **[Itaú](http://www.itau.com.br/)**, São Paulo, SP **Remote** - `Jan 2021 - May 2021`
 
   Java developer
   Worked with technologies like Java, Spring, Apache Kafka, Postgres
