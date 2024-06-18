@@ -48,8 +48,10 @@ Java, Python, TypeScript, JavaScript, PHP
 
 ### Projects and Cases
 
-- [E-hub](https://www.e-hub.com.br)
 - [Nike Brazil](https://www.nike.com.br)
+- [Casas Bahia Marketplace](https://marketplace.via.com.br/)
+- [Surgo Health](https://www.surgohealth.com/)
+- [Surgo Health](https://www.surgohealth.com/)
 - [Unilever Compra Agora](https://compra-agora.com/)
 - [Globo Assinaturas](https://assineoglobo.globo.com)
 - [Sunglass Hut](http://www.sunglasshut.com/br)
@@ -77,7 +79,7 @@ Java, Python, TypeScript, JavaScript, PHP
 
   In the Marketplace team, I primarily worked on building software solutions in development and modernization projects. I worked with technologies such as Java, Spring, Apache Kafka, Postgres, and MongoDB.
 
-  In the Data teams, we built a chatbot for Teams, delivering key company metrics to people and key groups within the company. The stack primarily involved NodeJS, TypeScript, NestJS, NuxtJS, and in the data layer, Python, Spark, SQL, Databricks.
+  In the Data teams, I built a chatbot for MS Teams, delivering key company metrics to people and key groups within the company. The stack primarily involved NodeJS, TypeScript, NestJS, NuxtJS, and in the data layer, Python, Spark, SQL, Databricks.
   During my time at Via, I also performed activities such as:
   Technical leadership and mentoring of engineers
   Being the focal point with stakeholders and project managers
